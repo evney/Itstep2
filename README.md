@@ -1,1 +1,1 @@
-# https://evney.github.io/itstep-cv/cv
+https://evney.github.io/Itstep2/cv
